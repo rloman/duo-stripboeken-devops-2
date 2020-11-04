@@ -7,6 +7,15 @@ public class SwitchCase {
         int dagen = geefAantalDagenVanDeMaand(344);
 
         System.out.println(dagen);
+
+        // gebruik het spaarzaam
+
+        int druiven = 50;
+
+        String label = druiven > 50 ? "Veel druiven" : "Weinig druiven";
+
+        System.out.println(label);
+
     }
 
     // mooi voorbeeld
