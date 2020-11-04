@@ -4,28 +4,6 @@ public class SwitchCase {
 
     public static void main(String[] args) {
 
-        // stom voorbeeld
-        /*
-        int treinen = 41;
-
-        switch (treinen) {
-
-            case 39:
-                System.out.println("U heeft 39 treinen");
-                break;
-            case 38:
-                System.out.println("U heeft 38 treinen");
-                break;
-
-            default:
-                System.out.println("U heeft geen 38 of 39 treinen, maar " + treinen);
-                break;
-
-        }
-
-        // einde switch-case
-        */
-
         int dagen = geefAantalDagenVanDeMaand(344);
 
         System.out.println(dagen);
