@@ -1,7 +1,10 @@
+package nl.duo.strips.loops;
+
 public class ArraysEnLoops {
 
-    public static void main(String[] args) {
+    public static final int AANTAL = 15;
 
+    public static void main(String[] args) {
 
         int[] numbers = {8, 7, 6, 9, 14, 12, 7, 6};
 
@@ -10,7 +13,11 @@ public class ArraysEnLoops {
 
         // aanvullend ...
 
-        int[] otherNumbers = new int[3];
+        int[] otherNumbers = new int[3]; // deze elementen zijn allemaal nul(zero)
+        System.out.println(otherNumbers[1]); // => 0
+
+        int aantal = 3;
+        int[] voorbeeld2 = new int[AANTAL];
 
         System.out.println(otherNumbers[2]);
         otherNumbers[2] = 15;

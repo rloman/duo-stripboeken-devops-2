@@ -1,3 +1,5 @@
+package nl.duo.strips.diversen;
+
 public class Timer {
 
     public static void main(String[] args) {

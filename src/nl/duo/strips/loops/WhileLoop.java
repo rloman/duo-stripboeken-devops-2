@@ -1,3 +1,5 @@
+package nl.duo.strips.loops;
+
 public class WhileLoop {
 
 

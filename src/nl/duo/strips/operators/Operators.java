@@ -1,3 +1,5 @@
+package nl.duo.strips.operators;
+
 public class Operators {
 
     public static void main(String[] args) {

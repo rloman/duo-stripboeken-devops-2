@@ -1,3 +1,5 @@
+package nl.duo.strips.loops;
+
 public class DoWhile {
 
     public static void main(String[] args) {

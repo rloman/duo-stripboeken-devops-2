@@ -1,3 +1,5 @@
+package nl.duo.strips.operators;
+
 import jdk.nashorn.api.tree.BreakTree;
 
 public class SwitchCase {

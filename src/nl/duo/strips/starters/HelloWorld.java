@@ -1,3 +1,5 @@
+package nl.duo.strips.starters;
+
 public class HelloWorld {
 
     public static void main(String[] args) {
