@@ -15,6 +15,5 @@ public class Application {
 
         String voornaam;
         ClassCastException e;
-
     }
 }
