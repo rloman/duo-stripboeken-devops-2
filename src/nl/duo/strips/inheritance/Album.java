@@ -13,6 +13,11 @@ public class Album extends Stripboek {
     }
 
     @Override
+    public String getAantalKeerGelezen() {
+        return "43";
+    }
+
+    @Override
     public void readMe() {
         System.out.println("Reading Album");
     }
