@@ -5,10 +5,18 @@ public class Application {
     public static void main(String[] args) {
         Drukpers pers = new Drukpers();
 
-        System.out.println(pers.aantalKerenGedrukt);
+        pers.setManufacturer("Philips");
+
+        System.out.println(pers.getAantalKerenGedrukt());
+
         pers.press();
         pers.press();
         pers.press();
-        System.out.println(pers.aantalKerenGedrukt);
+
+        System.out.println(pers.getManufacturer());
+
+
+
+        System.out.println(pers.getAantalKerenGedrukt());
     }
 }
