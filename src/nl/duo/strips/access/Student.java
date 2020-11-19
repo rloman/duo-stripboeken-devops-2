@@ -1,4 +1,4 @@
-package nl.duo.strips.branching.access;
+package nl.duo.strips.access;
 
 public class Student {
 

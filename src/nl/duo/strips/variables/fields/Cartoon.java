@@ -1,4 +1,4 @@
-package nl.duo.strips.oo.fields;
+package nl.duo.strips.variables.fields;
 
 public class Cartoon {
 

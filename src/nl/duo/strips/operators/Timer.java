@@ -1,4 +1,4 @@
-package nl.duo.strips.diversen;
+package nl.duo.strips.operators;
 
 public class Timer {
 

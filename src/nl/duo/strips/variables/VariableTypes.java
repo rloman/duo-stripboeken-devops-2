@@ -1,4 +1,4 @@
-package nl.duo.strips.diversen;
+package nl.duo.strips.variables;
 
 public class VariableTypes {
 

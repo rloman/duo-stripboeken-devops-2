@@ -1,4 +1,4 @@
-package nl.duo.strips.starters;
+package nl.duo.strips;
 
 public class HelloWorld {
 
